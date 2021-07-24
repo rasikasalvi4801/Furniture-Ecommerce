@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar .navbar-nav .nav-item a:hover{
+color: black;
+
+}
+
+.features h3{
+    line-height: 3.2rem;
+}
+.features .i-tag, .features .h1-p{
+text-align: center;
+padding-top: 1rem;
+}
+.features i{
+    color:rgb(211, 72, 95)
+}
+.features .col{
+    margin: 2rem 0 2rem 0;
+    border: 1px solid lightgrey;
+}
+
+
+.upper-footer .first-section i {
+    line-height: 2rem;
+padding-right: 0.5rem;
+   color:rgb(211, 72, 95) ;
+}
+.upper-footer a{
+    color: dimgray;
+}
+ .checked
+{
+    color: gold;
+}
+
+.brand{
+    width: 250px;
+    height: 250px;
+}
+ .two-cards .row .content{
+     transform: translateY(-50%);
+ }
+
+ .carousel .carousel-item .content{
+    transform: translateY(-50%);
+ }
+.carousel .carousel-item .content img{
+    height: 100%;
+}
